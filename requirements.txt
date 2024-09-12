@@ -1,0 +1,6 @@
+numpy==1.26.2
+pandas==2.1.4
+matplotlib==3.8.2
+scikit-learn==1.4.2
+ydata-profiling==4.7.0
+mlxtend==0.23.1
